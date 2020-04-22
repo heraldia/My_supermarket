@@ -1,2 +1,2 @@
 # My_supermarket
-The one with TV，no customer.
+The one with TV，one customer.
